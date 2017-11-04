@@ -19,4 +19,4 @@ to
 
     'label' => $va_result['txt']['en'],
 
-[Video](https://transfer.sh/IvYnK/Iconclass.mov)
+![show](https://raw.githubusercontent.com/kbecker87/ca_iconclass/master/screenshots/Iconclass.gif)
