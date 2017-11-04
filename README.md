@@ -8,3 +8,13 @@ Call it in [Pawtucket2](https://github.com/collectiveaccess/pawtucket2), the CA 
 
 - Copy the Iconclass.php to `your_providence_install/app/lib/core/Plugins/InformationService/Iconclass.php`
 - Create a Metadata Element with Iconclass as Information Service
+
+See http://www.iconclass.org/?place=msg%2Ficonclass%2F72FpG9xUE30%2FcwZ9b1VEGAAJ for more Information about the API.
+
+Also, if you want to change the query language from German to English, change lin 98 from
+
+    'label' => $va_result['txt']['de'],
+    
+to
+
+    'label' => $va_result['txt']['en'],
