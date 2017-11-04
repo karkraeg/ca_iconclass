@@ -19,4 +19,8 @@ to
 
     'label' => $va_result['txt']['en'],
 
+----
+
+Here is a short Video showing the Plugin in action:
+
 ![show](https://raw.githubusercontent.com/kbecker87/ca_iconclass/master/screenshots/Iconclass.gif)
