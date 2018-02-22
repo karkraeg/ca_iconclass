@@ -96,7 +96,7 @@ class WLPlugInformationServiceIconclass Extends BaseInformationServicePlugin Imp
 
 			$va_return['results'][] = array(
 				'label' => $va_result['txt']['de'],
-				'url' => 'http://iconclass.org/rkd/9/'.$va_result['n'],
+				'url' => 'http://iconclass.org/'.$va_result['n'],
 				'idno' => $va_result['n'],
 			);
 		}
