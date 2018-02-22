@@ -1,8 +1,8 @@
 <?php
 /** ---------------------------------------------------------------------
- * app/lib/core/Plugins/InformationService/Wikipedia.php :
+ * app/lib/core/Plugins/InformationService/Iconclass.php :
  * ----------------------------------------------------------------------
- * Iconclass Plufin by Karl Becker 2017
+ * Iconclass InformationService by Karl Becker 2017
  * ----------------------------------------------------------------------
  * CollectiveAccess
  * Open-source collections management software
